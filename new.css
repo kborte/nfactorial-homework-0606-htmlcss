@@ -1,0 +1,16 @@
+.first{
+    display: flex;
+    background-color: blue;
+    height: 60px;
+    width: auto;
+}
+
+.second{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.third{
+    width: 40px;
+    background-color: brown;
+}
